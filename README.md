@@ -1,4 +1,4 @@
-Not a good programmer, but I enjoy it.
+Not good at programming, but I enjoy it.
 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/anjum48)](https://www.kaggle.com/zacchaeus)
 
