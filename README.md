@@ -1,4 +1,4 @@
-I code for fun (mostly)
+I love coding
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/zacchaeus/competition/light)
 
